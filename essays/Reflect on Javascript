@@ -1,4 +1,11 @@
-Reflect on Javascript 
+layout: essay
+type: essay
+title: Reflect on Javascript
+date: 2017-08-31
+labels:
+  - Software Engineering
+  - Learning
+  -Javascript
 
     The time I spent this past week on FreeCodeCamp was not my first time with Javascript. 
     During the summer of 2013 I used CodeAcademy to learn HTML, CSS, and Javascript so I could build a website for my school’s robotics team.
