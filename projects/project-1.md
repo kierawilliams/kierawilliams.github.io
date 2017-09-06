@@ -1,4 +1,4 @@
----
+------
 layout: project
 type: project
 image: images/micromouse.jpg
@@ -11,6 +11,7 @@ labels:
   - Javascript
   - HTML
 summary: I plan to re-create the PCHS Robotics website from scratch using skills developed in 314. The objective is to give back to my old team an easy to manage site. 
+------
 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/ADDHERE.png">
