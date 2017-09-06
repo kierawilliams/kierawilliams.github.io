@@ -13,10 +13,7 @@ labels:
 summary: I plan to re-create the PCHS Robotics website from scratch using skills developed in 314. The objective is to give back to my old team an easy to manage site. 
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+  <img class="ui image" src="../images/ADDHERE.png">
 </div>
 
 During my high school years, 2010 - 2014, I was apart of the robotics team. In my time there I used 
