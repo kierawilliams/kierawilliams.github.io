@@ -1,12 +1,12 @@
 ---
 layout: essay
 type: essay
-title: "Regarding Ethics"
-date: 2017-10-19
+title: Regarding Ethics
+date: 2017-11-30
 labels:
   - Software Engineering
   - Ethics
-  -Harassment
+  - Harassment
 --- 
 
 To me, software engineering ethics means producing robust quality code that you won't regret writing.
