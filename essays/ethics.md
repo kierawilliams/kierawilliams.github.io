@@ -8,8 +8,8 @@ labels:
   - Ethics
   -Harassment
 --- 
-	
-	To me, software engineering ethics means producing robust quality code that you won't regret writing.
+
+To me, software engineering ethics means producing robust quality code that you won't regret writing.
 	What constitutes harrassment online can be diffcult to define and exponentially more difficult to prevent. 
 	Twitch is a website on which people stream, live broadcast, themselves to audiences thousands to millions strong. Viewers can subscribe to channels for a fee or donate money. This income can be enough for steamers to live off and in some cases thrive off. 
 	Over a number of years a teenager from Canada harrassed dozens of female streamers on Twitch. The harassment ranged from spamming them with messages and pizza deliveries to "SWATTING" their houses, issuing fake statements to the police that deployed fully armed SWAT teams, and doxing them, releasing private information without consent. 
