@@ -1,5 +1,13 @@
-Ethics in Software Engineering 
-
+---
+layout: essay
+type: essay
+title: "Regarding Ethics"
+date: 2017-10-19
+labels:
+  - Software Engineering
+  - Ethics
+  -Harassment
+--- 
 	
 	To me, software engineering ethics means producing robust quality code that you won't regret writing.
 	What constitutes harrassment online can be diffcult to define and exponentially more difficult to prevent. 
