@@ -13,7 +13,7 @@ summary
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/212-fp-image.png">
+  <img class="ui image" src="../images/212-fp-code.png">
 </div>
 
 
