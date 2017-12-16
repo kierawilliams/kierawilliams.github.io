@@ -1,7 +1,7 @@
 ---
 layout: essay
-essaytype: essay
-essaytitle: "Working for the Green"
+type: essay
+title: "Working for the Green"
 date: 2017-12-12
 labels: 
 - Software Engineering
