@@ -1,15 +1,14 @@
 ---
 layout: project
 type: project
-image: images/212-fp-image
-title: 212 Final Prokect
-permalink: projects/212-fp
+image: images/212-fp-image.png
+title: ICS 212 Final Project
+permalink: projects/212-fp-image
 date: 2016
 labels:
   - C++
-  - ICS212
   - Final Project
-  summary: A C++ program made for ICS 212 final project.
+summary: A C++ program made for ICS 212 final project.
 ---
 
 <div class="ui small rounded images">
