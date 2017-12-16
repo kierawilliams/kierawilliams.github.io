@@ -4,10 +4,10 @@ type: essay
 title: "Working for the Green"
 date: 2017-12-12
 labels: 
-- Software Engineering
-- Javascript
-- JSFiddle
-- ESLint
+  - Software Engineering
+  - Javascript
+  - JSFiddle
+  - ESLint
 ---							
 
 Using JSFiddle to code javascript is the worst. Why? Simply because of the error checking process. If a bracket, parenthesis, etc is missing its other half the only indication comes when you run the code and are returned “Expected ';' . ”The process of finding and correcting that grouping indicator could take so very long a time depending on the length of the code. The prolonged time between error and correction negates the learning ability of the error because so much time has passed. Instead all the remains is frustration, at yourself for making such a minor infraction and spending so much time fixing it and at JSFiddle for not having a way to identify the error. 
