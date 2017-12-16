@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/iw-home.png
+image: images/iw-landing.png
 title: Island Wanderer
 permalink: projects/islandwanderer
 date: 2017
@@ -13,7 +13,7 @@ labels:
 summary: A responsive web application for event planning that my team developed in ICS 314.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/iw-home.png">
+<img class="ui medium right floated rounded image" src="../images/iw-landing.png">
 
 Island Wanderer is a web application that I helped create as a team project in ICS 314, Fall 2017. We were not able to meet the goals of the project. Even so, the project helped me learn how to design and implement a responsive web site and has given me valuable experience working on team proejcts. 
 
