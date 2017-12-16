@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/211-fp-image.png
+image: images/211-fp-image.jpg
 title: 211 Final Project
 permalink: projects/211-fp-image
 date: 2016
