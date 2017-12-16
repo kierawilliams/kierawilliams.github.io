@@ -1,3 +1,4 @@
+
 ---
 layout: project
 type: project
@@ -9,7 +10,6 @@ labels:
   - C++
   - ICS212
   - Final Project
-summary
 ---
 
 <div class="ui small rounded images">
