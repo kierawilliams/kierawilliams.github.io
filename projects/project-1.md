@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/212-fp-image
-title: Website
+title: 212 Final Prokect
 permalink: projects/212-fp
 date: 2016
 labels:
@@ -21,3 +21,4 @@ In ICS 212 I learned to code in C and C++. The class was online so keeping up th
 
 I really liked this class because it was completely self directed. The information needed to construct the code was covered in the reading.
 I like this project because it reminds me that I can create working code that I am proud of. 
+ge
