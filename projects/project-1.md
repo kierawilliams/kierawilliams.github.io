@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/212-fp-image.png
+image: images/212-fp-image.jpg
 title: ICS 212 Final Project
 permalink: projects/212-fp-image
 date: 2016
